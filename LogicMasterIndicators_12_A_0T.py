@@ -1,5 +1,5 @@
 # LogicMasterIndicators_A7.py
-
+#NO ES LA GRAN COSA PERO ZAFA BASTANTE SI LA SABÉS USAR.
 # ==============================================================================
 # 0. DEPENDENCIAS EXTERNAS
 # ==============================================================================
